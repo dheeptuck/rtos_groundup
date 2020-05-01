@@ -1,0 +1,6 @@
+premptive_scheduler.c:33:29:SysTick_Handler	0	static,ignoring_inline_asm
+premptive_scheduler.c:83:6:OsInitThreadStack	8	static,ignoring_inline_asm
+premptive_scheduler.c:125:29:LaunchScheduler	0	static,ignoring_inline_asm
+premptive_scheduler.c:159:6:portable_delay_cycles	16	static
+premptive_scheduler.c:167:15:Task0	8	static
+premptive_scheduler.c:177:15:Task1	8	static
